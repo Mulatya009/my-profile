@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "name": "goshen school",
+        "image": "projects-preview/goshenSchool.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },       
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "php",
+            "database": "mysql"
+        },
+        "description": "This is a system that helps in daily management of school programmes and blogs"
+    },
+
+    {
+        "id": 2,
+        "name": "time planner",
+        "image": "projects-preview/planner.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "php",
+            "database": "mysql"
+        },
+        "description": "This system helps in planning and management of day to day events"
+    },
+
+    {
+        "id": 3,
+        "name": "todo list (js)",
+        "image": "projects-preview/jsTodo.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "php",
+            "database": "mysql"
+        },
+        "description": "This system helps in planning and management of day to day events"
+    },
+
+    {
+        "id": 4,
+        "name": "bettor services ltd",
+        "image": "projects-preview/bettorServicesLtd.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": ""
+        },
+        "description": "Bettor is a co-operate system that markets the company"
+    },
+
+    {
+        "id": 5,
+        "name": "event manager",
+        "image": "projects-preview/myEvents.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": "local storage"
+        },
+        "description": "The system saves all the events for the user to remember"
+    },
+
+    {
+        "id": 6,
+        "name": "stock manager(POS)",
+        "image": "projects-preview/pointOfSale.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "php, code-igniter",
+            "database": "mysql"
+        },
+        "description": "This is a Point og Sale system. it manages the stock and sells the stock printing receipt at the end."
+    },
+
+    {
+        "id": 7,
+        "name": "online courses",
+        "image": "projects-preview/onlineCourses.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": "local storage"
+        },
+        "description": "This system simulates online courses and how one can order"
+    },
+
+    {
+        "id": 8,
+        "name": "form validation",
+        "image": "projects-preview/formValidation.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": ""
+        },
+        "description": "Nice form validations!"
+    },
+
+    {
+        "id": 9,
+        "name": "my portfolio",
+        "image": "",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": "json"
+        },
+        "description": "Cyrus portfolio project"
+    },
+
+    {
+        "id": 10,
+        "name": "whispers' CMS",
+        "image": "projects-preview/whispersBlog.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "php",
+            "database": "mysql"
+        },
+        "description": "Content Management system: (Final year project) helps in managing all the data, information contained in whispers blog"
+    },
+
+    {
+        "id": 11,
+        "name": "whispers' blog",
+        "image": "projects-preview/whispersBlog.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "php",
+            "database": "mysql"
+        },
+        "description": "This is a blog for Rongo university community. Allows eases communication and information sharing."
+    },
+
+    {
+        "id": 12,
+        "name": "age calculator",
+        "image": "projects-preview/agecalculator.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": ""
+        },
+        "description": "This system helps in calculating age, taking care of almost all days including leap and normal year difference."
+    },
+
+    {
+        "id": 13,
+        "name": "insurance quotation",
+        "image": "projects-preview/insuranceQuotantion.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": ""
+        },
+        "description": "This is a simulation of insurance quote."
+    },
+
+    {
+        "id": 14,
+        "name": "budget app",
+        "image": "projects-preview/budgetApp.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": ""
+        },
+        "description": "This project helps in management of the user budget."
+    },
+
+    {
+        "id": 15,
+        "name": "public events",
+        "image": "projects-preview/publicEvents.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": "API"
+        },
+        "description": "This system displays events from eventBrite API according to search."
+    },
+
+    {
+        "id": 16,
+        "name": "transaction simulator",
+        "image": "projects-preview/transactionSemulator.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": ""
+        },
+        "description": "This is a simulation of mobile transactions."
+    },
+
+    {
+        "id": 17,
+        "name": "cool photo app",
+        "image": "projects-preview/coolPhotoApp.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": "API"
+        },
+        "description": "This is a project that displays photos from Unsplash API. Provides for search among other features"
+    },
+
+    {
+        "id": 18,
+        "name": "blackjack",
+        "image": "projects-preview/blackjackGame.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": ""
+        },
+        "description": "Wow! What a game? So enjoyable to play. Help and tips are given"
+    },
+
+    {
+        "id": 19,
+        "name": "perfect cocktails",
+        "image": "projects-preview/perfectCocktail.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": "API"
+        },
+        "description": "For drink lovers! Check out all your perfect drinks, ingredients, recipe among other functionalities from CocktailDB."
+    },
+
+    {
+        "id": 20,
+        "name": "hide & seek",
+        "image": "projects-preview/hide&seek.PNG",
+        "urls": {
+            "accessSite": "",
+            "sourceCode": ""
+        },
+        "skill_info": {
+            "frontend": "html5, css3, bootstrap4",
+            "backend": "javascript",
+            "database": ""
+        },
+        "description": "An enjoyable game to play! So tricky and tough."
+    }
+
+]

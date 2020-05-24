@@ -1,0 +1,26 @@
+[
+    {
+        "level" : "undergraduate degree",
+        "school" : "Rongo university",
+        "course" : "BSC Information Science",
+        "specialization" : "Information Technology",
+        "year of completion" : 2020
+
+    },
+
+    {
+        "level" : "high school education",
+        "school" : "St. Joseph's Mutito Boys' high school",
+        "course" : "Kenya Certificate of Secondary Education",
+        "specialization": "",
+        "year of completion" : 2014
+    },
+
+    {
+        "level": "Primary school education",
+        "school": "Mutomo Academy primary school",
+        "course": "Kenya Certificate of Primary Education",
+        "specialization": "",
+        "year of completion": 2010
+    }
+]

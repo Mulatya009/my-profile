@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "logo": "",
+        "color": "color-6",
+        "language": "html5",
+        "level": 90,
+        "projects": "30+"
+    },
+
+    {
+        "id": 2,
+        "logo": "",
+        "color": "color-5",
+        "language": "css3",
+        "level": 70,
+        "projects": "30+"
+    },
+
+    {
+        "id": 3,
+        "logo": "",
+        "color": "color-4",
+        "language": "bootstrap4",
+        "level": 90,
+        "projects": "30+"
+    },
+
+    {
+        "id": 4,
+        "logo": "",
+        "color": "color-3",
+        "language": "javascript",
+        "level": 80,
+        "projects": "30+"
+    }
+
+]

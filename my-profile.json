@@ -1,0 +1,52 @@
+{
+    "first name" : "Cyrus",
+    "last name" : "Mulatya",
+    "gender" : "male",
+    "dob": "03/10/1996",
+    "country": "kenya",
+    "county": "kitui",
+    "religion" : "christianity",
+    "specialization" : "web developer",
+    "dev side" : "full-stack",
+    "Contact" : 725970848,
+    "email" : "mulatyacyrus@gmail.com",
+    "website" : "cycam.info",
+    "github" : "",
+    "stackOverflow" : "",
+    "twitter" : "@mwalimu_009",
+    "facebook" : "mwalimu cyrus",
+    "whatsApp" : 729442682,
+    "summary" : {
+        "personal_info": "Hi! I'm Cyrus Mulatya and I am from  Kenya. I am an Information Technology Expert as a programmer and a software developer. Welcome to my portfolio. It may not contain all about me but almost all!",
+        "work": [
+
+            {
+                "id": 1,
+                "icon": "",
+                "color": "color-2",
+                "name": "web design"
+            },
+
+            {
+                "id": 2,
+                "icon": "",
+                "color": "color-6",
+                "name": "web applications"
+            },
+
+            {
+                "id": 3,
+                "icon": "",
+                "color": "color-4",
+                "name": "database"
+            },
+
+            {
+                "id": 4,
+                "icon": "",
+                "color": "color-3",
+                "name": "IT training"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "logo": "",
+        "color": "color-1",
+        "name": "innovative ideas",
+        "description": ""
+    },
+
+    {
+        "id": 2,
+        "logo": "",
+        "color": "color-2",
+        "name": "database",
+        "description": ""
+    },
+
+    {
+        "id": 3,
+        "logo": "",
+        "color": "color-3",
+        "name": "web design",
+        "description": ""
+    },
+
+    {
+        "id": 4,
+        "logo": "",
+        "color": "color-4",
+        "name": "web application",
+        "description": ""
+    }
+]
